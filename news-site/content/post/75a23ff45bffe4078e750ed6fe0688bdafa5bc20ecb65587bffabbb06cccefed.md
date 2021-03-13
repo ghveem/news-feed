@@ -9,5 +9,5 @@ tags:
 
 <p>Article URL: <a href="https://our.status.im/vitalik-escalates-eth-2-0-merge-as-miners-plan-a-51-attack/">https://our.status.im/vitalik-escalates-eth-2-0-merge-as-miners-plan-a-51-attack/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=26441399">https://news.ycombinator.com/item?id=26441399</a></p>
-<p>Points: 314</p>
-<p># Comments: 298</p>
+<p>Points: 416</p>
+<p># Comments: 419</p>
