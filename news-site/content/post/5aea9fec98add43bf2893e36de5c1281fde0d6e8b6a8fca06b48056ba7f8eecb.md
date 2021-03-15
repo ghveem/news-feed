@@ -9,5 +9,5 @@ tags:
 
 <p>Article URL: <a href="https://www.anandtech.com/print/16529/amd-epyc-milan-review">https://www.anandtech.com/print/16529/amd-epyc-milan-review</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=26466933">https://news.ycombinator.com/item?id=26466933</a></p>
-<p>Points: 99</p>
-<p># Comments: 43</p>
+<p>Points: 170</p>
+<p># Comments: 65</p>
