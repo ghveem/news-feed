@@ -9,5 +9,5 @@ tags:
 
 <p>Article URL: <a href="https://raphlinus.github.io/rust/graphics/gpu/2019/05/08/modern-2d.html">https://raphlinus.github.io/rust/graphics/gpu/2019/05/08/modern-2d.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=26462348">https://news.ycombinator.com/item?id=26462348</a></p>
-<p>Points: 115</p>
-<p># Comments: 49</p>
+<p>Points: 160</p>
+<p># Comments: 73</p>
