@@ -9,5 +9,5 @@ tags:
 
 <p>Article URL: <a href="https://moores.samaltman.com/">https://moores.samaltman.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=26480981">https://news.ycombinator.com/item?id=26480981</a></p>
-<p>Points: 183</p>
-<p># Comments: 245</p>
+<p>Points: 301</p>
+<p># Comments: 385</p>
