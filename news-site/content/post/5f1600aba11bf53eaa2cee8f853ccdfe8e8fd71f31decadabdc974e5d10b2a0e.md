@@ -9,5 +9,5 @@ tags:
 
 <p>Article URL: <a href="https://spectrum.ieee.org/telecom/wireless/the-us-government-finally-gets-serious-about-iot-security">https://spectrum.ieee.org/telecom/wireless/the-us-government-finally-gets-serious-about-iot-security</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=26506772">https://news.ycombinator.com/item?id=26506772</a></p>
-<p>Points: 50</p>
-<p># Comments: 18</p>
+<p>Points: 105</p>
+<p># Comments: 45</p>
