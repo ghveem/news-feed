@@ -9,5 +9,5 @@ tags:
 
 <p>Article URL: <a href="https://www.jackfranklin.co.uk/blog/comparing-svelte-and-react-javascript/">https://www.jackfranklin.co.uk/blog/comparing-svelte-and-react-javascript/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=26571391">https://news.ycombinator.com/item?id=26571391</a></p>
-<p>Points: 103</p>
-<p># Comments: 86</p>
+<p>Points: 194</p>
+<p># Comments: 184</p>
