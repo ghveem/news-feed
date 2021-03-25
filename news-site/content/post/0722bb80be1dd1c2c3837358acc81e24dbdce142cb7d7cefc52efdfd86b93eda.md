@@ -9,5 +9,5 @@ tags:
 
 <p>Article URL: <a href="https://www.fossil-scm.org/home/doc/trunk/www/chat.md">https://www.fossil-scm.org/home/doc/trunk/www/chat.md</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=26578581">https://news.ycombinator.com/item?id=26578581</a></p>
-<p>Points: 194</p>
-<p># Comments: 91</p>
+<p>Points: 232</p>
+<p># Comments: 116</p>
