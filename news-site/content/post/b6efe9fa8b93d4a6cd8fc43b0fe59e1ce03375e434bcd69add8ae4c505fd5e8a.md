@@ -9,5 +9,5 @@ tags:
 
 <p>Article URL: <a href="https://openssf.org/">https://openssf.org/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=26602033">https://news.ycombinator.com/item?id=26602033</a></p>
-<p>Points: 183</p>
-<p># Comments: 49</p>
+<p>Points: 217</p>
+<p># Comments: 65</p>
