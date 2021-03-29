@@ -9,5 +9,5 @@ tags:
 
 <p>Article URL: <a href="https://www.bbc.com/future/article/20210325-the-strange-medieval-fruit-the-world-forgot">https://www.bbc.com/future/article/20210325-the-strange-medieval-fruit-the-world-forgot</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=26611413">https://news.ycombinator.com/item?id=26611413</a></p>
-<p>Points: 210</p>
-<p># Comments: 120</p>
+<p>Points: 237</p>
+<p># Comments: 128</p>
