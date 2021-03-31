@@ -10,5 +10,5 @@ tags:
 
 <p>Article URL: <a href="https://therecord.media/google-collects-20-times-more-telemetry-from-android-devices-than-apple-from-ios/">https://therecord.media/google-collects-20-times-more-telemetry-from-android-devices-than-apple-from-ios/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=26639261">https://news.ycombinator.com/item?id=26639261</a></p>
-<p>Points: 408</p>
-<p># Comments: 211</p>
+<p>Points: 656</p>
+<p># Comments: 320</p>
