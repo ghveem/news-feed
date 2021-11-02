@@ -1,0 +1,18 @@
+# i18n/nn.yaml
+- id: prevpage
+  translation: "← Førre side"
+
+- id: nextpage
+  translation: "Neste side →"
+
+- id: nojscomments
+  translation: "Du må skru på Javascript for å vise kommentarar."
+
+- id: authorpretext
+  translation: "Frå"
+
+- id: 404title
+  translation: "HTTP-404 Error"
+
+- id: 404text
+  translation: "Det er ikkje noko innhald her."
