@@ -1,6 +1,6 @@
-# news.panz3r.dev
+# https://ghveem.github.io/news-feed/
 
-Hello! This repo houses the code that generates my personal RSS feed. It's hosted at [news.panz3r.dev](https://news.panz3r.dev/).
+Hello! This repo houses the code that generates my personal RSS feed. It's hosted at [https://ghveem.github.io/news-feed/](https://ghveem.github.io/news-feed/).
 The code itself is non-generic and personalised to my use case, but it might serve as interesting inspiration.
 
 ## How does it work?
