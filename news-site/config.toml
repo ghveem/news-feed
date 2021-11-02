@@ -1,6 +1,6 @@
-baseURL = "https://news.panz3r.dev/"
-languageCode = "en-us"
-title = "Panz3r News"
+baseURL = "https://ghveem.github.io/news-feed/"
+languageCode = "nn-no"
+title = "nnyhende"
 theme = "hugo-vitae"
 paginate = 10
 enableRobotsTXT = true
