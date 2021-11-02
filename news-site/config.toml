@@ -2,7 +2,7 @@ baseURL = "https://ghveem.github.io/news-feed/"
 languageCode = "nn"
 title = "MikroNytt"
 theme = "hugo-vitae"
-paginate = 10
+paginate = 20
 enableRobotsTXT = true
 
 
