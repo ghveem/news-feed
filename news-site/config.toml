@@ -6,7 +6,7 @@ paginate = 10
 enableRobotsTXT = true
 
 
-Kode / copyright = "[Panz3r](https://github.com/panz3r) 2021 | [Vitae](https://github.com/panz3r/hugo-vitae) theme for [Hugo](https://gohugo.io)"
+copyright = "[Panz3r](https://github.com/panz3r) 2021 | [Vitae](https://github.com/panz3r/hugo-vitae) theme for [Hugo](https://gohugo.io)"
 
 pygmentsstyle = "colorful"
 pygmentscodefences = true
