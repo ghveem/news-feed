@@ -12,6 +12,14 @@
     "url": "https://blogg.ndla.no/feed"
   },
   {
+      "name": "@NDLA_NO på Twitter",
+      "url": "https://rssbox.herokuapp.com/twitter/101773656/ndla_no"
+  },
+  {
+      "name": "NDLA på Youtube",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBlt6T8B0mmvDh3k5q7EhsA"
+  },
+  {
     "name": "om.ndla.no",
     "url": "https://om.ndla.no/feed"
   }
