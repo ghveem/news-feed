@@ -5,7 +5,8 @@ theme = "hugo-vitae"
 paginate = 10
 enableRobotsTXT = true
 
-copyright = "[Panz3r](https://github.com/panz3r) 2021 | [Vitae](https://github.com/panz3r/hugo-vitae) theme for [Hugo](https://gohugo.io)"
+
+Kode / copyright = "[Panz3r](https://github.com/panz3r) 2021 | [Vitae](https://github.com/panz3r/hugo-vitae) theme for [Hugo](https://gohugo.io)"
 
 pygmentsstyle = "colorful"
 pygmentscodefences = true
@@ -106,7 +107,7 @@ weight = 4
 [[params.social]]
 name = "Github"
 icon = "fab fa-github"
-url = "https://github.com/panz3r/news-feed"
+url = "https://github.com/ghveem/news-feed"
 
 #[[params.social]]
 #name = "E-post"
