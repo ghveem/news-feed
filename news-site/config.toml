@@ -1,6 +1,6 @@
 baseURL = "https://ghveem.github.io/news-feed/"
 languageCode = "nn"
-title = "nnyhende"
+title = "MikroNytt"
 theme = "hugo-vitae"
 paginate = 10
 enableRobotsTXT = true
@@ -22,13 +22,13 @@ pygmentscodefencesguesssyntax = true
 	homepage = false
 
 	# Add meta keywords in head part (Site Keywords or Tags of Page)
-	keywords = ["news","tech","news feed"]
+	keywords = ["news","edtech","oer"]
 
 	# Add meta description in head part
-	#description = "Vitae is a blog theme for Hugo that focuses on your content."
+	#description = "Mikronytt."
 
 	# Add pagetitle to homepage <title> tag
-	pagetitle = "My personal news feed"
+	pagetitle = "Mikronytt"
 
 	# Add a subtitle to your website
 	#subtitle = "[Vitae](https://github.com/dataCobra/hugo-vitae) is a blog theme for Hugo that focuses on your content."
@@ -78,27 +78,27 @@ enabled = false
 
 # Navigation
 [[menu.main]]
-name = "Home"
+name = "Heim"
 url = "/"
 weight = 1
 
 #[[menu.main]]
-#name = "All Posts"
+#name = "Start"
 #url = "/post"
 #weight = 2
 
 #[[menu.main]]
-#name = "About"
+#name = "Om"
 #url = "/about"
 #weight = 3
 
 [[menu.main]]
-name = "Tags"
+name = "Emne"
 url = "/tags"
 weight = 4
 
 #[[menu.main]]
-#name = "Categories"
+#name = "Kategoriar"
 #url = "/categories"
 #weight = 5
 
@@ -109,7 +109,7 @@ icon = "fab fa-github"
 url = "https://github.com/panz3r/news-feed"
 
 #[[params.social]]
-#name = "Email"
+#name = "E-post"
 #icon = "fas fa-envelope"
 #cmd = "mailto:example@example.com"
 
