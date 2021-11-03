@@ -12,6 +12,14 @@
     "url": "https://blogg.ndla.no/feed"
   },
   {
+      "name": "Fagblogg",
+      "url": "https://blogg.ndla.no/category/fagblogg/feed/"
+  },
+  {
+      "name": "NDLA nyhetsbrev",
+      "url": "https://us6.campaign-archive.com/feed?u=99d41bbb28de0128915adebed&id=9a1d3ad1ea"
+  },
+  {
       "name": "@NDLA_NO på Twitter",
       "url": "https://rssbox.herokuapp.com/twitter/101773656/ndla_no"
   },
@@ -20,8 +28,16 @@
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBlt6T8B0mmvDh3k5q7EhsA"
   },
   {
+      "name": "Nyhetsovervaking",
+      "url": "https://news.google.com/rss/search?q=ndla&hl=no&gl=NO&ceid=NO:no"
+  },
+  {
     "name": "Google Doodle",
     "url": "https://rsshub.app/google/doodles/NO"
+  },
+  {
+      "name": "OER på creative commons",
+      "url": "http://creativecommons.org/tag/oer/feed/rss"
   },
   {
     "name": "om.ndla.no",
