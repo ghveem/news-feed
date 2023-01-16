@@ -37,10 +37,18 @@
   },
   {
       "name": "OER på creative commons",
-      "url": "http://creativecommons.org/tag/oer/feed/rss"
+      "url": "https://creativecommons.org/tag/oer/feed/rss"
   },
   {
     "name": "om.ndla.no",
     "url": "https://om.ndla.no/feed"
+  },
+  {
+      "name": "Siste nytt fra udir.no",
+      "url": "https://www.udir.no/rss/rss-siste-nytt/"
+  },
+  {
+      "name": "Ekspertgruppen for digital læringsanalyse",
+      "url": "https://laringsanalyse.no/feed"
   }
 ]
