@@ -8,10 +8,6 @@
     "url": "https://www.udir.no/rss/rss-siste-nytt/"
   },
   {
-      "name": "NDLA nyhetsbrev",
-      "url": "https://us6.campaign-archive.com/feed?u=99d41bbb28de0128915adebed&id=9a1d3ad1ea"
-  },
-  {
       "name": "NDLA på Youtube",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBlt6T8B0mmvDh3k5q7EhsA"
   },
@@ -22,10 +18,6 @@
   {
       "name": "OER på creative commons",
       "url": "https://creativecommons.org/tag/oer/feed/rss"
-  },
-  {
-      "name": "Siste nytt fra udir.no",
-      "url": "https://www.udir.no/rss/rss-siste-nytt/"
   },
   {
       "name": "Ekspertgruppen for digital læringsanalyse",
